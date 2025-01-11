@@ -4,21 +4,21 @@
 3. Contact Details- Email id, Phone no., Linkdin url 
 4. Career Objective- 2-4 sentences
     Ensure VLSI in aspiration in it
-5. Education details- reverse chronological order
+6. Education details- reverse chronological order
     No tables
     No Marks
-6. Experience
+7. Experience
     company name
     designation
     job role
-7. Technical Skills 
-8. Projects Major projects then minor (also tools and technologies used)
-9. Pulications, certifications,workshops, seminars (even not related to VLSI)
-10. Awards & Achievements
-11. Behavioral skills- Dession making, problem solving skills
-12. Hobbies & Interests
-13. Languages Known
-14. Declaration 
+8. Technical Skills 
+9. Projects Major projects then minor (also tools and technologies used)
+10. Pulications, certifications,workshops, seminars (even not related to VLSI)
+11. Awards & Achievements
+12. Behavioral skills- Dession making, problem solving skills
+13. Hobbies & Interests
+14. Languages Known
+15. Declaration 
      Date
      place
      signature
