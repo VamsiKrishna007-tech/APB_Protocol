@@ -1,5 +1,5 @@
 # Resume
-1. Name : Vamsi Krishna
+1. Name :
 2. Domain Name : Engineer
 3. Contact Details- Email id, Phone no., Linkdin url 
 4. Career Objective- 2-4 sentences, Ensure VLSI in aspiration in it
