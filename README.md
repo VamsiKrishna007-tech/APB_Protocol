@@ -1,1 +1,29 @@
 # Resume
+1. Name : Vamsi Krishna
+2. Domain Name : Engineer
+3. Contact Details- Email id, Phone no., Linkdin url 
+4. Career Objective- 2-4 sentences
+    Ensure VLSI in aspiration in it
+5. Education details- reverse chronological order
+    No tables
+    No Marks
+6. Experience
+    company name
+    designation
+    job role
+7. Technical Skills 
+8. Projects Major projects then minor (also tools and technologies used)
+9. Pulications, certifications,workshops, seminars (even not related to VLSI)
+10. Awards & Achievements
+11. Behavioral skills- Dession making, problem solving skills
+12. Hobbies & Interests
+13. Languages Known
+14. Declaration 
+     Date
+     place
+     signature
+     
+     
+Resume should always be a 2 pager
+No Spelling or grammaticl mistakes
+No Capitalisation/ BLOCK LETTERS
