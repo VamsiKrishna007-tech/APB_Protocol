@@ -7,18 +7,7 @@ SETUP: The state where the peripheral select signal (PSELx) is asserted and the 
 ACCESS: The state where the enable signal (PENABLE) is asserted to finalize the transfer, waiting for the slave's PREADY signal.
 
 ## Port Descriptions
-**PCLK**      Input        1bit     Clock signal.
-**PRESETn**   Input        1bit     Active-low reset signal.
-**transfer**  Input        1bit     Control signal to initiate a bus cycle.
-**addr**      Input       32bit     Input address to be driven onto the bus.
-**wdata**     Input       32bit     Input data to be written to the slave.
-**write**     Input        1bit     High for Write transfers, Low for Read.
-**PADDR**     Output      32bit     APB Address Bus.
-**PWDATA**    Output      32bit     APB Write Data Bus.
-**PSELx**     Output       1bit     Peripheral Select signal.
-**PENABLE**   Output       1bit     APB Enable signal.
-**PWRITE**    Output       1bit     APB Write/Read control signal.
-**PREADY**    Input        1bit     Ready signal from the slave.
+<img width="728" height="493" alt="image" src="https://github.com/user-attachments/assets/3bb73c61-12d0-4d45-946d-a319c567b11f" />
 
 ## State Machine Logic
 The FSM transitions based on the transfer and PREADY inputs:
